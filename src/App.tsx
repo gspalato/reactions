@@ -8,7 +8,7 @@ import './index.css';
 
 const App: React.FC = () => {
     return (
-        <main className="bg-black">
+        <main className="bg-white-100">
             <AnimatePresence exitBeforeEnter>
                 <Router>
                     <Switch>
