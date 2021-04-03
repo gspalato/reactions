@@ -1,6 +1,6 @@
 const path = require("path");
 
-const tailwindcss = require("@tailwindcss/jit");
+const tailwindcss = require("tailwindcss");
 const autoprefixer = require("autoprefixer");
 
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
