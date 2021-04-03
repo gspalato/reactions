@@ -1,5 +1,5 @@
 # reactions.
-A boilerplate for React projects using Webpack 5 and preconfigured with TailwindCSS.
+A boilerplate for React projects using Webpack 5 and Typescript; preconfigured with TailwindCSS.
 
 ## How to use
 You can just run
