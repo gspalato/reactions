@@ -6,8 +6,10 @@ export const Home: React.FC = () => {
 		<>
 			<div className="flex h-full w-full justify-center items-center">
 				<div className="flex flex-col h-auto object-scale-down m-0 justify-center items-center">
-					<h1 className="font-display text-8xl font-semibold">Hello!</h1>
-					<p className="font-body text-lg">Welcome to <b>reactions</b>.</p>
+					<h1 className="text-8xl font-semibold"
+						style={{ fontFamily: "Inter" }}>Hello!</h1>
+					<p className="font-body text-lg font-semibold"
+						style={{ fontFamily: "Karla" }}>Welcome to <i>reactions</i>.</p>
 				</div>
 			</div>
 		</>
